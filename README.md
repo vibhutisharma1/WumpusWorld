@@ -40,5 +40,6 @@ WumpusPlayer: defines the player by its row, col, the direction, hasArrow, and i
 WumpusMap: contains the 2d array which has all the pits, wumpus, and places all the breezes or stenches near each respective object 
 
 Visuals: 
-![]
+![](gameVisuals/Screen%20Shot%202020-09-09%20at%204.14.27%20PM.png)
+![](gameVisuals/Screen%20Shot%202020-09-09%20at%204.16.42%20PM.png)
 
